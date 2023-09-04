@@ -12,4 +12,3 @@ function onInputChange(event) {
     span.textContent = "Anonymus";
   }
 }
-// SOMETHING
